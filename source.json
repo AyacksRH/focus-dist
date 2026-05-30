@@ -22,18 +22,18 @@
         "privacy": {}
       },
       "version": "1.1.0",
-      "versionDate": "2026-05-30T20:07:53Z",
-      "versionDescription": "Fix: qualify SwiftUI.Spacer in ContentView (ambiguous with ActivityKit)",
+      "versionDate": "2026-05-30T20:09:45Z",
+      "versionDescription": "Qualify all SwiftUI.Spacer (ActivityKit also vends a Spacer)",
       "downloadURL": "https://github.com/AyacksRH/focus-dist/releases/download/v1.1.0/Focus.ipa",
-      "size": 73085,
+      "size": 73112,
       "versions": [
         {
           "version": "1.1.0",
           "buildVersion": "1",
-          "date": "2026-05-30T20:07:53Z",
-          "localizedDescription": "Fix: qualify SwiftUI.Spacer in ContentView (ambiguous with ActivityKit)",
+          "date": "2026-05-30T20:09:45Z",
+          "localizedDescription": "Qualify all SwiftUI.Spacer (ActivityKit also vends a Spacer)",
           "downloadURL": "https://github.com/AyacksRH/focus-dist/releases/download/v1.1.0/Focus.ipa",
-          "size": 73085,
+          "size": 73112,
           "minOSVersion": "17.0"
         }
       ]
