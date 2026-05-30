@@ -21,19 +21,19 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.2.0",
-      "versionDate": "2026-05-30T20:16:38Z",
-      "versionDescription": "Luna capsule: AI assistant scenes (not music player)",
-      "downloadURL": "https://github.com/AyacksRH/focus-dist/releases/download/v1.2.0/Focus.ipa",
-      "size": 107050,
+      "version": "1.2.1",
+      "versionDate": "2026-05-30T20:55:00Z",
+      "versionDescription": "CI: sync app MARKETING_VERSION from VERSION file (fix update detection)",
+      "downloadURL": "https://github.com/AyacksRH/focus-dist/releases/download/v1.2.1/Focus.ipa",
+      "size": 107041,
       "versions": [
         {
-          "version": "1.2.0",
+          "version": "1.2.1",
           "buildVersion": "1",
-          "date": "2026-05-30T20:16:38Z",
-          "localizedDescription": "Luna capsule: AI assistant scenes (not music player)",
-          "downloadURL": "https://github.com/AyacksRH/focus-dist/releases/download/v1.2.0/Focus.ipa",
-          "size": 107050,
+          "date": "2026-05-30T20:55:00Z",
+          "localizedDescription": "CI: sync app MARKETING_VERSION from VERSION file (fix update detection)",
+          "downloadURL": "https://github.com/AyacksRH/focus-dist/releases/download/v1.2.1/Focus.ipa",
+          "size": 107041,
           "minOSVersion": "17.0"
         }
       ]
