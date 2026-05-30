@@ -22,18 +22,18 @@
         "privacy": {}
       },
       "version": "1.2.1",
-      "versionDate": "2026-05-30T20:55:00Z",
-      "versionDescription": "CI: sync app MARKETING_VERSION from VERSION file (fix update detection)",
+      "versionDate": "2026-05-30T20:56:14Z",
+      "versionDescription": "CI: portable sed (no -i) for version sync; fixes macOS BSD sed error",
       "downloadURL": "https://github.com/AyacksRH/focus-dist/releases/download/v1.2.1/Focus.ipa",
-      "size": 107041,
+      "size": 107023,
       "versions": [
         {
           "version": "1.2.1",
           "buildVersion": "1",
-          "date": "2026-05-30T20:55:00Z",
-          "localizedDescription": "CI: sync app MARKETING_VERSION from VERSION file (fix update detection)",
+          "date": "2026-05-30T20:56:14Z",
+          "localizedDescription": "CI: portable sed (no -i) for version sync; fixes macOS BSD sed error",
           "downloadURL": "https://github.com/AyacksRH/focus-dist/releases/download/v1.2.1/Focus.ipa",
-          "size": 107041,
+          "size": 107023,
           "minOSVersion": "17.0"
         }
       ]
