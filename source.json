@@ -21,19 +21,19 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.0",
-      "versionDate": "2026-05-30T19:45:57Z",
-      "versionDescription": "CI: auto-publish builds to eSign source (focus-dist)",
-      "downloadURL": "https://github.com/AyacksRH/focus-dist/releases/download/v1.0.0/Focus.ipa",
-      "size": 82151,
+      "version": "1.1.0",
+      "versionDate": "2026-05-30T20:06:21Z",
+      "versionDescription": "Rework app into Luna AI music player Dynamic Island",
+      "downloadURL": "https://github.com/AyacksRH/focus-dist/releases/download/v1.1.0/Focus.ipa",
+      "size": 73051,
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.1.0",
           "buildVersion": "1",
-          "date": "2026-05-30T19:45:57Z",
-          "localizedDescription": "CI: auto-publish builds to eSign source (focus-dist)",
-          "downloadURL": "https://github.com/AyacksRH/focus-dist/releases/download/v1.0.0/Focus.ipa",
-          "size": 82151,
+          "date": "2026-05-30T20:06:21Z",
+          "localizedDescription": "Rework app into Luna AI music player Dynamic Island",
+          "downloadURL": "https://github.com/AyacksRH/focus-dist/releases/download/v1.1.0/Focus.ipa",
+          "size": 73051,
           "minOSVersion": "17.0"
         }
       ]
